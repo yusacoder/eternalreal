@@ -30,17 +30,17 @@
   },
 
   "stats": [
-    { "label": "Aktif Ekip Üyesi", "value": "24+" },
-    { "label": "Yayınlanan Bölüm", "value": "3.200+" },
-    { "label": "Discord Üyesi", "value": "18.000+" },
-    { "label": "Kuruluş Yılı", "value": "2023" }
+    { "label": "Aktif Ekip Üyesi", "value": "2" },
+    { "label": "Yayınlanan Bölüm", "value": "Loading" },
+    { "label": "Discord Üyesi", "value": "Loading" },
+    { "label": "Kuruluş Yılı", "value": "2026" }
   ],
 
   "sites": [
     {
       "key": "anime",
       "name": "Anime Sitemiz",
-      "description": "Altyazılı ve dublajlı anime bölümlerini haftalık olarak takip edin.",
+      "description": "Altyazılı anime bölümlerini haftalık olarak takip edin.",
       "url": "https://example.com/anime",
       "image": "https://picsum.photos/id/1005/800/600",
       "tag": "Anime"
