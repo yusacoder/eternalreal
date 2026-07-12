@@ -126,14 +126,13 @@
 
   "contact": {
     "email": "destek@eternalproduction.net",
-    "discordInvite": "https://discord.gg/example",
-    "adminApplication": "https://forms.google.com/your-form-link"
+    "discordInvite": "",
+    "adminApplication": "https://forms.gle/uVLwy4Cgj4fS8mcs6"
   },
 
   "social": {
-    "twitter": "https://twitter.com/eternalproduction",
-    "instagram": "https://instagram.com/eternalproduction",
-    "youtube": "https://youtube.com/@eternalproduction",
-    "discord": "https://discord.gg/example"
+ 
+    "instagram": "https://instagram.com/animeternaltr",
+ 
   }
 }
