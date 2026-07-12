@@ -26,6 +26,18 @@ const Router = (() => {
     } else {
       detailEl.style.display = "none";
       homeEl.style.display = "block";
+
+      if (raw === "" || raw === "/" || raw === "/#") {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      } else {
+        const elementId = raw.startsWith("/") ? raw.slice(1) : raw;
+        const targetEl = document.getElementById(elementId);
+        if (targetEl) {
+          setTimeout(() => {
+            targetEl.scrollIntoView({ behavior: "smooth", block: "start" });
+          }, 50);
+        }
+      }
     }
   }
 
