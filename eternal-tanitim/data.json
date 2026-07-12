@@ -1,0 +1,139 @@
+{
+  "site": {
+    "title": "Eternal Production",
+    "logoText": "Eternal Production",
+    "tagline": "Anime, manga ve haber dünyasını tek çatı altında topluyoruz.",
+    "foundedYear": 2023
+  },
+
+  "hero": {
+    "eyebrow": "Eternal Production'a Hoş Geldiniz",
+    "heading": "Hikayelerin sonsuz olduğu yer.",
+    "subheading": "Anime çevirilerinden manga okumaya, güncel anime haberlerinden topluluk etkinliklerine kadar; tutkuyla büyüyen bir ekip tarafından hazırlanıyor.",
+    "primaryCtaText": "Sitelerimizi Keşfet",
+    "primaryCtaLink": "#sitelerimiz",
+    "secondaryCtaText": "Ekibe Katıl",
+    "secondaryCtaLink": "https://forms.google.com/your-form-link",
+    "heroImage": "https://picsum.photos/id/1074/1000/1200"
+  },
+
+  "about": {
+    "eyebrow": "Biz Kimiz",
+    "title": "Tutkuyla başladı, bir topluluğa dönüştü.",
+    "description": "Eternal Production, 2023 yılında birkaç arkadaşın anime ve manga sevgisini paylaşma isteğiyle kurulan bağımsız bir içerik ağıdır. Bugün onlarca gönüllü çevirmen, editör ve geliştiriciyle üç ayrı platformda binlerce takipçiye ulaşıyoruz.",
+    "highlights": [
+      { "icon": "🎬", "title": "Anime İçerikleri", "text": "Altyazılı ve dublajlı bölüm takibi, sezonluk öneriler." },
+      { "icon": "📖", "title": "Manga Çevirileri", "text": "Güncel bölüm takibi ve okuma listeleri." },
+      { "icon": "📰", "title": "Güncel Haberler", "text": "Sektörden ilk elden ve hızlı haber akışı." },
+      { "icon": "🤝", "title": "Gönüllü Topluluk", "text": "Herkesin katkı sunabildiği açık bir yapı." }
+    ]
+  },
+
+  "stats": [
+    { "label": "Aktif Ekip Üyesi", "value": "24+" },
+    { "label": "Yayınlanan Bölüm", "value": "3.200+" },
+    { "label": "Discord Üyesi", "value": "18.000+" },
+    { "label": "Kuruluş Yılı", "value": "2023" }
+  ],
+
+  "sites": [
+    {
+      "key": "anime",
+      "name": "Anime Sitemiz",
+      "description": "Altyazılı ve dublajlı anime bölümlerini haftalık olarak takip edin.",
+      "url": "https://example.com/anime",
+      "image": "https://picsum.photos/id/1005/800/600",
+      "tag": "Anime"
+    },
+    {
+      "key": "manga",
+      "name": "Manga Sitemiz",
+      "description": "En sevilen serilerin güncel bölümlerini Türkçe okuyun.",
+      "url": "https://example.com/manga",
+      "image": "https://picsum.photos/id/1011/800/600",
+      "tag": "Manga"
+    },
+    {
+      "key": "haber",
+      "name": "Anime Haber Sitemiz",
+      "description": "Sektörden en güncel haberler, duyurular ve etkinlik takvimi.",
+      "url": "https://example.com/haber",
+      "image": "https://picsum.photos/id/1025/800/600",
+      "tag": "Haber"
+    }
+  ],
+
+  "team": [
+    {
+      "id": "u001",
+      "username": "eternaladmin",
+      "firstName": "Ahmet",
+      "lastName": "Yılmaz",
+      "title": "Kurucu & Baş Geliştirici",
+      "avatar": "https://i.pravatar.cc/300?img=12",
+      "banner": "https://picsum.photos/id/1015/1200/400",
+      "tags": ["Founder", "Owner", "Eternal Team", "Verified"],
+      "bio": "Eternal Production kurucusu ve baş geliştirici. Projenin teknik altyapısından sorumlu.",
+      "joinDate": "2023-01-20",
+      "social": { "twitter": "https://twitter.com/eternaladmin", "instagram": "https://instagram.com/eternaladmin", "discord": "eternaladmin#0001" }
+    },
+    {
+      "id": "u002",
+      "username": "aysehan",
+      "firstName": "Ayşe",
+      "lastName": "Han",
+      "title": "Anime Ekibi Sorumlusu",
+      "avatar": "https://i.pravatar.cc/300?img=32",
+      "banner": "https://picsum.photos/id/1025/1200/400",
+      "tags": ["Anime Team", "Moderator", "Verified"],
+      "bio": "Anime ekibi sorumlusu ve topluluk moderatörü. Bölüm takviminin planlanmasından sorumlu.",
+      "joinDate": "2023-03-05",
+      "social": { "twitter": "https://twitter.com/aysehan", "instagram": "", "discord": "aysehan#2222" }
+    },
+    {
+      "id": "u003",
+      "username": "mertdev",
+      "firstName": "Mert",
+      "lastName": "Kaya",
+      "title": "Frontend Geliştirici",
+      "avatar": "https://i.pravatar.cc/300?img=51",
+      "banner": "https://picsum.photos/id/1005/1200/400",
+      "tags": ["Developer", "Manga Team"],
+      "bio": "Manga sitesi frontend geliştiricisi. Kullanıcı deneyimi ve arayüz tasarımıyla ilgileniyor.",
+      "joinDate": "2024-06-15",
+      "social": { "twitter": "", "instagram": "https://instagram.com/mertdev", "discord": "mertdev#3333" }
+    },
+    {
+      "id": "u004",
+      "username": "zeynepsupport",
+      "firstName": "Zeynep",
+      "lastName": "Aydın",
+      "title": "Destek Ekibi",
+      "avatar": "https://i.pravatar.cc/300?img=45",
+      "banner": "https://picsum.photos/id/1035/1200/400",
+      "tags": ["Support", "Verified"],
+      "bio": "Destek ekibi üyesi, kullanıcı sorunlarıyla ve topluluk sorularıyla ilgilenir.",
+      "joinDate": "2024-11-22",
+      "social": { "twitter": "https://twitter.com/zeynepsupport", "instagram": "", "discord": "" }
+    }
+  ],
+
+  "faq": [
+    { "question": "Ekibe nasıl katılabilirim?", "answer": "Aşağıdaki başvuru formunu doldurarak bize ulaşabilirsiniz. Uygun pozisyon açıldığında sizinle iletişime geçilir." },
+    { "question": "İçerikleriniz ücretsiz mi?", "answer": "Evet, tüm içeriklerimiz tamamen ücretsiz ve gönüllü emeğiyle hazırlanmaktadır." },
+    { "question": "Reklam veya iş birliği için nereden ulaşabilirim?", "answer": "İletişim bölümündeki e-posta adresinden bize ulaşabilirsiniz." }
+  ],
+
+  "contact": {
+    "email": "destek@eternalproduction.net",
+    "discordInvite": "https://discord.gg/example",
+    "adminApplication": "https://forms.google.com/your-form-link"
+  },
+
+  "social": {
+    "twitter": "https://twitter.com/eternalproduction",
+    "instagram": "https://instagram.com/eternalproduction",
+    "youtube": "https://youtube.com/@eternalproduction",
+    "discord": "https://discord.gg/example"
+  }
+}
