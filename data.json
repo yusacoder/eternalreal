@@ -90,37 +90,10 @@
       "joinDate": "2023-03-05",
       "social": { "twitter": "https://twitter.com/aysehan", "instagram": "", "discord": "aysehan#2222" }
     },
-    {
-      "id": "u003",
-      "username": "mertdev",
-      "firstName": "Mert",
-      "lastName": "Kaya",
-      "title": "Frontend Geliştirici",
-      "avatar": "https://i.pravatar.cc/300?img=51",
-      "banner": "https://picsum.photos/id/1005/1200/400",
-      "tags": ["Developer", "Manga Team"],
-      "bio": "Manga sitesi frontend geliştiricisi. Kullanıcı deneyimi ve arayüz tasarımıyla ilgileniyor.",
-      "joinDate": "2024-06-15",
-      "social": { "twitter": "", "instagram": "https://instagram.com/mertdev", "discord": "mertdev#3333" }
-    },
-    {
-      "id": "u004",
-      "username": "zeynepsupport",
-      "firstName": "Zeynep",
-      "lastName": "Aydın",
-      "title": "Destek Ekibi",
-      "avatar": "https://i.pravatar.cc/300?img=45",
-      "banner": "https://picsum.photos/id/1035/1200/400",
-      "tags": ["Support", "Verified"],
-      "bio": "Destek ekibi üyesi, kullanıcı sorunlarıyla ve topluluk sorularıyla ilgilenir.",
-      "joinDate": "2024-11-22",
-      "social": { "twitter": "https://twitter.com/zeynepsupport", "instagram": "", "discord": "" }
-    }
   ],
 
   "faq": [
     { "question": "Ekibe nasıl katılabilirim?", "answer": "Aşağıdaki başvuru formunu doldurarak bize ulaşabilirsiniz. Uygun pozisyon açıldığında sizinle iletişime geçilir." },
-    { "question": "İçerikleriniz ücretsiz mi?", "answer": "Evet, tüm içeriklerimiz tamamen ücretsiz ve gönüllü emeğiyle hazırlanmaktadır." },
     { "question": "Reklam veya iş birliği için nereden ulaşabilirim?", "answer": "İletişim bölümündeki e-posta adresinden bize ulaşabilirsiniz." }
   ],
 
