@@ -399,3 +399,25 @@ footer { padding: 50px 0 40px; border-top: 1px solid rgba(20,21,31,0.06); }
   .cta-banner { padding: 40px 26px; text-align: center; justify-content: center; }
   section { padding: 64px 0; }
 }
+/* Mobil Navbar */
+@media (max-width: 768px) {
+
+  /* Sağdaki linkleri gizle */
+  .navbar-right .nav-link {
+    display: none;
+  }
+
+  /* İstersen butonu da gizle */
+  .navbar-right .btn {
+    display: none;
+  }
+
+  /* Logo ve hamburger hizalama */
+  .navbar {
+    padding: 14px 18px;
+  }
+
+  .brand {
+    font-size: 15px;
+  }
+}
