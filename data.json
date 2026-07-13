@@ -40,9 +40,9 @@
     {
       "key": "anime",
       "name": "Anime Sitemiz",
-      "description": "Altyazılı anime bölümlerini haftalık olarak takip edin.",
-      "url": "https://example.com/anime",
-      "image": "https://picsum.photos/id/1005/800/600",
+      "description": "Yakında sizlerle...",
+      "url": "",
+      "image": "",
       "tag": "Anime"
     },
     {
@@ -58,7 +58,7 @@
       "name": "Anime Haber Sitemiz",
       "description": "Sektörden en güncel haberler, duyurular ve etkinlik takvimi.",
       "url": "mangamoe.net/haberler",
-      "image": "https://picsum.photos/id/1025/800/600",
+      "image": "",
       "tag": "Haber"
     }
   ],
@@ -79,16 +79,16 @@
     },
     {
       "id": "u002",
-      "username": "aysehan",
-      "firstName": "Ayşe",
-      "lastName": "Han",
-      "title": "Anime Ekibi Sorumlusu",
-      "avatar": "https://i.pravatar.cc/300?img=32",
-      "banner": "https://picsum.photos/id/1025/1200/400",
-      "tags": ["Anime Team", "Moderator", "Verified"],
-      "bio": "Anime ekibi sorumlusu ve topluluk moderatörü. Bölüm takviminin planlanmasından sorumlu.",
-      "joinDate": "2023-03-05",
-      "social": { "twitter": "https://twitter.com/aysehan", "instagram": "", "discord": "aysehan#2222" }
+      "username": "Moderatör",
+      "firstName": "Moderatör",
+      "lastName": "",
+      "title": "Medya yetkilisi & Kurucu",
+      "avatar": "",
+      "banner": "",
+      "tags": ["Media Team", "Moderator", "Verified"],
+      "bio": "Kullanıcı biyografisi girilmedi.",
+      "joinDate": "2026-06-12",
+      "social": { "twitter": "", "instagram": "", "discord": "" }
     }
   ],
 
