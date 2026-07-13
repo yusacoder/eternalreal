@@ -14,15 +14,15 @@
     "primaryCtaLink": "#sitelerimiz",
     "secondaryCtaText": "Ekibe Katıl",
     "secondaryCtaLink": "https://forms.google.com/your-form-link",
-    "heroImage": "https://picsum.photos/id/1074/1000/1200"
+    "heroImage": "eternal-logo.jpg"
   },
 
   "about": {
     "eyebrow": "Biz Kimiz",
     "title": "Tutkuyla başladı, bir topluluğa dönüştü.",
-    "description": "Eternal Production, 2023 yılında birkaç arkadaşın anime ve manga sevgisini paylaşma isteğiyle kurulan bağımsız bir içerik ağıdır. Bugün onlarca gönüllü çevirmen, editör ve geliştiriciyle üç ayrı platformda binlerce takipçiye ulaşıyoruz.",
+    "description": "Eternal Production, 2026 yılında birkaç arkadaşın anime ve manga sevgisini paylaşma isteğiyle kurulan bağımsız bir içerik ağıdır. Bugün onlarca gönüllü çevirmen, editör ve geliştiriciyle üç ayrı platformda binlerce takipçiye ulaşıyoruz.",
     "highlights": [
-      { "icon": "🎬", "title": "Anime İçerikleri", "text": "Altyazılı ve dublajlı bölüm takibi, sezonluk öneriler." },
+      { "icon": "🎬", "title": "Anime İçerikleri", "text": "Altyazılı bölüm takibi, sezonluk öneriler." },
       { "icon": "📖", "title": "Manga Çevirileri", "text": "Güncel bölüm takibi ve okuma listeleri." },
       { "icon": "📰", "title": "Güncel Haberler", "text": "Sektörden ilk elden ve hızlı haber akışı." },
       { "icon": "🤝", "title": "Gönüllü Topluluk", "text": "Herkesin katkı sunabildiği açık bir yapı." }
@@ -49,15 +49,15 @@
       "key": "manga",
       "name": "Manga Sitemiz",
       "description": "En sevilen serilerin güncel bölümlerini Türkçe okuyun.",
-      "url": "https://example.com/manga",
-      "image": "https://picsum.photos/id/1011/800/600",
+      "url": "https://mangamoe.net",
+      "image": "https://mangamoe.net/logo1-removebg-preview.png",
       "tag": "Manga"
     },
     {
       "key": "haber",
       "name": "Anime Haber Sitemiz",
       "description": "Sektörden en güncel haberler, duyurular ve etkinlik takvimi.",
-      "url": "https://example.com/haber",
+      "url": "mangamoe.net/haberler",
       "image": "https://picsum.photos/id/1025/800/600",
       "tag": "Haber"
     }
@@ -66,16 +66,16 @@
   "team": [
     {
       "id": "u001",
-      "username": "eternaladmin",
-      "firstName": "Ahmet",
-      "lastName": "Yılmaz",
-      "title": "Kurucu & Baş Geliştirici",
-      "avatar": "https://i.pravatar.cc/300?img=12",
-      "banner": "https://picsum.photos/id/1015/1200/400",
+      "username": "Hirata",
+      "firstName": "Hirata",
+      "lastName": "ETERNAL",
+      "title": "Kurucu Geliştirici",
+      "avatar": "https://https://photograph.eternalproduction.net/hirata-logo.jpg",
+      "banner": "https://photograph.eternalproduction.net/hirata-arkaplan.jpeg",
       "tags": ["Founder", "Owner", "Eternal Team", "Verified"],
-      "bio": "Eternal Production kurucusu ve baş geliştirici. Projenin teknik altyapısından sorumlu.",
+      "bio": "Eternal Production kurucusu ve geliştirici. Projenin teknik altyapısından sorumlu.",
       "joinDate": "2023-01-20",
-      "social": { "twitter": "https://twitter.com/eternaladmin", "instagram": "https://instagram.com/eternaladmin", "discord": "eternaladmin#0001" }
+      "social": { "twitter": "", "instagram": "https://instagram.com/hirata.gg", "discord": "" }
     },
     {
       "id": "u002",
