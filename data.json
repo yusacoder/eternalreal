@@ -31,8 +31,6 @@
 
   "stats": [
     { "label": "Aktif Ekip Üyesi", "value": "2" },
-    { "label": "Yayınlanan Bölüm", "value": "Loading" },
-    { "label": "Discord Üyesi", "value": "Loading" },
     { "label": "Kuruluş Yılı", "value": "2026" }
   ],
 
@@ -58,39 +56,12 @@
       "name": "Anime Haber Sitemiz",
       "description": "Sektörden en güncel haberler, duyurular ve etkinlik takvimi.",
       "url": "mangamoe.net/haberler",
-      "image": "",
+      "image": "https://mangamoe.net/logo1-removebg-preview.png",
       "tag": "Haber"
     }
   ],
 
-  "team": [
-    {
-      "id": "u001",
-      "username": "Hirata",
-      "firstName": "Hirata",
-      "lastName": "ETERNAL",
-      "title": "Kurucu & Geliştirici",
-      "avatar": "https://photograph.eternalproduction.net/hirata-logo.jpg",
-      "banner": "https://photograph.eternalproduction.net/hirata-arkaplan.jpeg",
-      "tags": ["Founder", "Owner", "Eternal Team", "Verified"],
-      "bio": "Eternal Production kurucusu ve geliştirici. Projenin teknik altyapısından sorumlu.",
-      "joinDate": "2026-06-12",
-      "social": { "twitter": "", "instagram": "https://instagram.com/hirata.gg", "discord": "" }
-    },
-    {
-      "id": "u002",
-      "username": "Moderatör",
-      "firstName": "Moderatör",
-      "lastName": "",
-      "title": "Medya yetkilisi & Kurucu",
-      "avatar": "",
-      "banner": "",
-      "tags": ["Media Team", "Moderator", "Verified"],
-      "bio": "Kullanıcı biyografisi girilmedi.",
-      "joinDate": "2026-06-12",
-      "social": { "twitter": "", "instagram": "", "discord": "" }
-    }
-  ],
+
 
   "faq": [
     { "question": "Ekibe nasıl katılabilirim?", "answer": "Aşağıdaki başvuru formunu doldurarak bize ulaşabilirsiniz. Uygun pozisyon açıldığında sizinle iletişime geçilir." },
