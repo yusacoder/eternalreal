@@ -22,65 +22,87 @@
     "title": "Tutkuyla başladı, bir topluluğa dönüştü.",
     "description": "Eternal Production, 2026 yılında birkaç arkadaşın anime ve manga sevgisini paylaşma isteğiyle kurulan bağımsız bir içerik ağıdır. Bugün onlarca gönüllü çevirmen, editör ve geliştiriciyle üç ayrı platformda binlerce takipçiye ulaşıyoruz.",
     "highlights": [
-      { "icon": "🎬", "title": "Anime İçerikleri", "text": "Altyazılı bölüm takibi, sezonluk öneriler." },
-      { "icon": "📖", "title": "Manga Çevirileri", "text": "Güncel bölüm takibi ve okuma listeleri." },
-      { "icon": "📰", "title": "Güncel Haberler", "text": "Sektörden ilk elden ve hızlı haber akışı." },
-      { "icon": "🤝", "title": "Gönüllü Topluluk", "text": "Herkesin katkı sunabildiği açık bir yapı." }
+      {
+        "icon": "🎬",
+        "title": "Anime İçerikleri",
+        "text": "Altyazılı bölüm takibi, sezonluk öneriler."
+      },
+      {
+        "icon": "📖",
+        "title": "Manga Çevirileri",
+        "text": "Güncel bölüm takibi ve okuma listeleri."
+      },
+      {
+        "icon": "📰",
+        "title": "Güncel Haberler",
+        "text": "Sektörden ilk elden ve hızlı haber akışı."
+      },
+      {
+        "icon": "🤝",
+        "title": "Gönüllü Topluluk",
+        "text": "Herkesin katkı sunabildiği açık bir yapı."
+      }
     ]
   },
 
   "stats": [
-    { "label": "Aktif Ekip Üyesi", "value": "2" },
-    { "label": "Kuruluş Yılı", "value": "2026" }
+    {
+      "label": "Aktif Ekip Üyesi",
+      "value": "2"
+    },
+    {
+      "label": "Kuruluş Yılı",
+      "value": "2026"
+    }
   ],
-  
-"sites": [
-  {
-    "key": "anime",
-    "name": "Anime Sitemiz",
-    "description": "Yakında sizlerle...",
-    "url": "",
-    "image": "",
-    "tag": "Anime"
+
+  "sites": [
+    {
+      "key": "anime",
+      "name": "Anime Sitemiz",
+      "description": "Yakında sizlerle...",
+      "url": "",
+      "image": "",
+      "tag": "Anime"
+    },
+    {
+      "key": "manga",
+      "name": "Manga Sitemiz",
+      "description": "En sevilen serilerin güncel bölümlerini Türkçe okuyun.",
+      "url": "https://mangamoe.net",
+      "image": "https://mangamoe.net/logo1-removebg-preview.png",
+      "tag": "Manga"
+    },
+    {
+      "key": "haber",
+      "name": "Anime Haber Sitemiz",
+      "description": "Sektörden en güncel haberler, duyurular ve etkinlik takvimi.",
+      "url": "https://mangamoe.net/haberler",
+      "image": "https://mangamoe.net/logo1-removebg-preview.png",
+      "tag": "Haber"
+    }
+  ],
+
+  "team": [],
+
+  "faq": [
+    {
+      "question": "Ekibe nasıl katılabilirim?",
+      "answer": "Aşağıdaki başvuru formunu doldurarak bize ulaşabilirsiniz. Uygun pozisyon açıldığında sizinle iletişime geçilir."
+    },
+    {
+      "question": "Reklam veya iş birliği için nereden ulaşabilirim?",
+      "answer": "İletişim bölümündeki e-posta adresinden bize ulaşabilirsiniz."
+    }
+  ],
+
+  "contact": {
+    "email": "destek@eternalproduction.net",
+    "discordInvite": "",
+    "adminApplication": "https://forms.gle/uVLwy4Cgj4fS8mcs6"
   },
-  {
-    "key": "manga",
-    "name": "Manga Sitemiz",
-    "description": "En sevilen serilerin güncel bölümlerini Türkçe okuyun.",
-    "url": "https://mangamoe.net",
-    "image": "https://mangamoe.net/logo1-removebg-preview.png",
-    "tag": "Manga"
-  },
-  {
-    "key": "haber",
-    "name": "Anime Haber Sitemiz",
-    "description": "Sektörden en güncel haberler, duyurular ve etkinlik takvimi.",
-    "url": "https://mangamoe.net/haberler",
-    "image": "https://mangamoe.net/logo1-removebg-preview.png",
-    "tag": "Haber"
+
+  "social": {
+    "instagram": "https://instagram.com/animeternaltr"
   }
-],
-
-"team": [],
-
-"faq": [
-  {
-    "question": "Ekibe nasıl katılabilirim?",
-    "answer": "Aşağıdaki başvuru formunu doldurarak bize ulaşabilirsiniz. Uygun pozisyon açıldığında sizinle iletişime geçilir."
-  },
-  {
-    "question": "Reklam veya iş birliği için nereden ulaşabilirim?",
-    "answer": "İletişim bölümündeki e-posta adresinden bize ulaşabilirsiniz."
-  }
-],
-
-"contact": {
-  "email": "destek@eternalproduction.net",
-  "discordInvite": "",
-  "adminApplication": "https://forms.gle/uVLwy4Cgj4fS8mcs6"
-},
-
-"social": {
-  "instagram": "https://instagram.com/animeternaltr"
 }
-
